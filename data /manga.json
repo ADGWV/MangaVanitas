@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Attack on Titan",
+    "cover": "assets/img/covers/aot.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Demon Slayer",
+    "cover": "assets/img/covers/demonslayer.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Tokyo Ghoul",
+    "cover": "assets/img/covers/tokyoghoul.jpg"
+  },
+  {
+    "id": "4",
+    "title": "One Punch Man",
+    "cover": "assets/img/covers/onepunch.jpg"
+  }
+]
